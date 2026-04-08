@@ -15,3 +15,5 @@ Url
 
 ### Autor
 Andres Gutierrez
+### Status
+Finalizado en la version 1.0
